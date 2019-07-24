@@ -39,3 +39,5 @@ https://www.quandl.com/
 ## EDA (Exploratory Data Analysis) and Feature Engineering
 Analyze time series data, explore the main drivers of spot price and how they interact and finally, compute new features.
 
+## Model Building
+Train several model like linear regression, random forest and XGBs, tunning hyperparamenters with cross-validation and grid search. After selecting the best one, a residual analysis is carreid out
