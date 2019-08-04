@@ -25,14 +25,10 @@ Libraries in main distributions, such as Anaconda:
 * seaborn (0.9.0)
 
 Install libraries with pip:
-pip install quandl
-https://docs.quandl.com/docs/python-installation
-pip install xgboost
-https://xgboost.readthedocs.io/en/latest/build.html#
-pip install requests
-https://pypi.org/project/requests/
-pip install json
-https://docs.python.org/3/library/json.html
+* https://docs.quandl.com/docs/python-installation ```pip install quandl```
+* https://xgboost.readthedocs.io/en/latest/build.html# ```pip install xgboost``` 
+* https://pypi.org/project/requests/ ```pip install requests```
+* https://docs.python.org/3/library/json.html ```pip install json```
 
 ## Import Data
 Electricity market data (REE ESIOS API):
