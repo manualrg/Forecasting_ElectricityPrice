@@ -16,10 +16,23 @@ The framework contains every step in a DS project, from data ingestion, to visua
 
 Python 3.6
 
-Install libraries with pip
+Libraries in main distributions, such as Anaconda:
+* pandas (0.23.4)
+* numpy (1.15.4)
+* scikit-learn (0.20.1)
+* scipy (1.1.0)
+* matplotlib (3.0.2)
+* seaborn (0.9.0)
 
+Install libraries with pip:
 pip install quandl
 https://docs.quandl.com/docs/python-installation
+pip install xgboost
+https://xgboost.readthedocs.io/en/latest/build.html#
+pip install requests
+https://pypi.org/project/requests/
+pip install json
+https://docs.python.org/3/library/json.html
 
 ## Import Data
 Electricity market data (REE ESIOS API):
